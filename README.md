@@ -1,3 +1,23 @@
+npx create-react-app tesla-clone --template redux
+npm start
+rfce --components
+npm i styled-components
+npm install @mui/icons-material
+npm i react-reveal --save
+(npm install react-reveal --save --legacy-peer-deps)
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
